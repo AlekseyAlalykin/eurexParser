@@ -93,16 +93,6 @@ public class ExchangeParser {
         }
 
         writer.close();
-
-
-
-
-        /*
-        Elements elements = doc.getElementsByAttributeValueStarting("id","time");
-        Element table = elements.get(0);
-        */
-
-
     }
 
     public static void main(String[] args) {
